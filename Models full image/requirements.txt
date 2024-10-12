@@ -1,0 +1,6 @@
+numpy
+cupy-cuda12x
+Pillow
+scikit-learn
+tqdm
+skorch
